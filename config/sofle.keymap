@@ -46,7 +46,7 @@
 &kp F12   &kp F1    &kp F2    &kp F3    &kp F4    &kp F5                    &kp F6      &kp F7      &kp F8      &kp F9      &kp F10      &kp F11
 &kp PSCRN &kp LPAR  &kp RPAR  &kp DQT   &kp UNDER &kp PLUS                  &kp HOME    &kp PG_DN   &kp PG_UP   &kp END     &kp C_BRI_UP &kp DEL
 &trans    &kp LBKT  &kp RBKT  &kp SQT   &kp MINUS &kp EQUAL                 &kp LEFT    &kp DOWN    &kp UP      &kp RIGHT   &kp C_BRI_DN &trans
-&trans    &kp LBRC  &kp RBRC  &kp GRAVE &kp TIDLE &trans    &trans   &trans &bt BT_SEL0 &bt BT_SEL1 &bt BT_SEL2 &bt BT_SEL3 &bt BT_SEL4  &trans
+&trans    &kp LBRC  &kp RBRC  &kp GRAVE &kp TILDE &trans    &trans   &trans &bt BT_SEL0 &bt BT_SEL1 &bt BT_SEL2 &bt BT_SEL3 &bt BT_SEL4  &trans
                     &trans    &trans    &trans    &trans    &trans   &trans &trans      &trans      &trans      &bt BT_CLR
             >;
 
